@@ -22,7 +22,7 @@ if (!spaceId || !accessToken) {
 
 module.exports = {
   siteMetadata: {
-    title: `Your Site Here`,
+    title: `Joe And The Loud River`,
     siteUrl: `https://www.yourdomain.tld`,
   },
   plugins: [
